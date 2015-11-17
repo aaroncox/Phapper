@@ -2,7 +2,6 @@
 
 namespace Phapper;
 
-require_once(__DIR__.'/../config.php');
 require_once(__DIR__.'/inc/oauth2.php');
 require_once(__DIR__.'/inc/ratelimiter.php');
 require_once(__DIR__.'/inc/live.php');
